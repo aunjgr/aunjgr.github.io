@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "FM-index and suffix array"
+date:   2016-10-29
+categories: succinct
+---
+TODO
