@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An introduction to wavelet trees"
+title:  "Wavelet trees for all"
 date:   2016-10-28
 categories: succinct
 ---
