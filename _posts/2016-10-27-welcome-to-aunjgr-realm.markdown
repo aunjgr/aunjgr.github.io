@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to AuNjGr's Realm!"
 date:   2016-10-27 01:58:11 +0800
 categories: jekyll update
 ---
